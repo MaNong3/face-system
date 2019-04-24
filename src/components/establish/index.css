@@ -1,0 +1,11 @@
+.demo-editor {
+    width: 100%!important;
+    height:180px !important;
+    border: 1px solid #F1F1F1 ;
+    border-radius: 2px ;
+}
+.btn{
+    /* float: right; */
+    width: 20%;
+    margin-left:100px;
+}

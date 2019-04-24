@@ -1,0 +1,16 @@
+.type{
+    width: 100%;
+    position: relative;
+}
+.btn{
+    width: 20%;
+    position: absolute;
+    left:30%;
+}
+.edits{
+    width: 100%;
+}
+.edit,.default{
+    margin-right:5%;
+    width: 20%;
+}

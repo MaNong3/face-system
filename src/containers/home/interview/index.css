@@ -1,0 +1,6 @@
+:global .ant-upload-list-item-info .anticon-loading, .ant-upload-list-item-info .anticon-paper-clip{
+    display: none
+}
+:global .ant-btn{
+    width: 120px;
+}

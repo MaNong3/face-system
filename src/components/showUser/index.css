@@ -1,0 +1,9 @@
+.showUser ul{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.showUser ul li{
+    flex: 1;
+    text-align: center;
+}
